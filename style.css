@@ -1,0 +1,42 @@
+#red {
+    color: red;
+}
+#blue {
+    color: blue;
+}
+#green {
+    color: green;
+}
+#big {
+    font-size: 30px;
+}
+#tiny {
+    font-size: 5px;
+}
+#centered {
+    text-align: center;
+}
+#bold {
+    font-weight: bold;
+}
+#change-font {
+    font-family: 'Courier New', Courier, monospace;
+}
+#multiple-attributes {
+    color: orange;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 25px;
+    text-align: center;
+    text-decoration: underline;
+    font-weight: bold;
+}
+.styledFont {
+    font-family: Arial, Helvetica, sans-serif;
+    color: hsl(50, 45, 60);
+}
+#styledImage {
+    border: orange;
+    border-width: 25px;
+    border-style: dashed;
+    border-radius: 30px;
+}
